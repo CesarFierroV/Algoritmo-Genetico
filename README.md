@@ -1,2 +1,2 @@
 # Algoritmo-Genetico
-Algoritmo genetico creado en Python para una práctica de la escuela.
+Algoritmo genetico creado en Python para practica
